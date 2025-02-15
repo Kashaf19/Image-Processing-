@@ -37,8 +37,8 @@ This project explores **Neural Style Transfer (NST)** and various **image proces
 - Optimization for faster processing on low-end devices.  
 - Adding more artistic style models.  
 
-📜 License
+## 📜 License
 This project is licensed under the Apche 2.0 License. See the LICENSE file for details.
 
-👤 Author
+## 👤 Author
 Kashaf Shahid
